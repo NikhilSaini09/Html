@@ -1,0 +1,20 @@
+body {
+    background-image: url(../Images/header.gif);
+    background-repeat: repeat;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 10px auto 0 auto;
+    text-align: center;
+}
+#intro {
+    font-weight: bold;
+    font-style: italic;
+    text-shadow: 2px 2px 2px black;
+    color: blueviolet;
+}
+.name {
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+.hobby {
+    color: brown;
+}
